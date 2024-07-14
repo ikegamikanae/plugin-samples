@@ -26,5 +26,6 @@
   "devDependencies": {
     "@cybozu/eslint-config": "^17.0.1",
     "eslint": "^8.18.0"
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }
